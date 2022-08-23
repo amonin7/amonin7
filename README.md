@@ -6,6 +6,7 @@
     <img src="https://cp-logo.vercel.app/leetcode/sudiptob2" alt="Leet code rating" />
   </a>
 </p>
+
 #### Now
 
 - 🔭 I’m currently working on [GIF-portal](https://github.com/amonin7/solana-smart-contract)
