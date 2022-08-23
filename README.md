@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andrey Minin</h1>
 <h3 align="center">Software Engineer at WorldQuant | MSc in CE at NYU</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amonin7&label=Profile%20views&color=0e75b6&style=flat" alt="amonin7" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amonin7" alt="amonin7" /></a> </p>
-
 - 🔭 I’m currently working on [GIF-portal](https://github.com/amonin7/solana-smart-contract)
 
 - 🌱 I’m currently learning **blockchain development on Rust**
