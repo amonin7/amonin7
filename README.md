@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andrey Minin</h1>
-<h3 align="center">Software Engineer at WorldQuant | MSc in CE at NYU</h3>
+<h3 align="center">Rust Software Engineer at HFT fund | MSc in CE at NYU</h3>
 
 <p align="left">
   <a href="https://leetcode.com/AndrewGrozny">
@@ -15,9 +15,9 @@
 
 #### Bio
 
-- 🏢 I'm currently working at **WorldQuant**
-- ⚙️ I use daily: `.java`, `.go`, `.rs`
-- 💬 Ping me about **Java**, **Spring**, **Go**, **Docker**, **RestAPIs**
+- 🏢 I'm currently working at **HFT fund**. Previously I worked at tech-giants: **WorldQuant** (US), **Vimpelcom** (EU), **Sberbank** (EU)
+- ⚙️ I use daily: `.rs`, `.java`, `.go`
+- 💬 Ping me about **Rust**, **Java**, **Go**, **RestAPIs**
 - 📫 Reach me: **minin.andrey.v@gmail.com**
 - 📝 Checkout my [Resume](files/resume.pdf).
 
