@@ -19,7 +19,7 @@
 - ⚙️ I use daily: `.rs`, `.java`, `.go`
 - 💬 Ping me about **Rust**, **Java**, **Go**, **RestAPIs**
 - 📫 Reach me: **minin.andrey.v@gmail.com**
-- 📝 Checkout my [Resume](files/resume.pdf).
+- 📝 Checkout my [Resume](files/CV_Minin_A_V_BC.pdf).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
